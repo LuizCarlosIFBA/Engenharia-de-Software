@@ -1,0 +1,96 @@
+Info: DeliveryProcess:Entrega Parcial: 954 mini seconds publishing element
+Info: DeliveryProcess:Entrega Parcial: 24 mini seconds publishing process specific layout data
+Info: Phase:Estudo de viabilidade: 62 mini seconds publishing element
+Info: Task:examinar_analise_de_requisitos: 165 mini seconds publishing element
+Info: TaskDescriptor:examinar_analise_de_requisitos: 190 mini seconds publishing element
+Info: Role:gestor_geral: 764 mini seconds publishing element
+Info: RoleDescriptor:gestor_geral: 130 mini seconds publishing element
+Info: Role:partes_interessadas: 43 mini seconds publishing element
+Info: RoleDescriptor:partes_interessadas: 11 mini seconds publishing element
+Info: Artifact:demanda: 174 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 285 mini seconds publishing element
+Info: Artifact:documento_de_analise_de_requisitos: 21 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_analise_de_requisitos: 17 mini seconds publishing element
+Info: Artifact:estoria_do_usuario: 24 mini seconds publishing element
+Info: WorkProductDescriptor:estoria_do_usuario: 13 mini seconds publishing element
+Info: Artifact:status_do_projeto: 21 mini seconds publishing element
+Info: WorkProductDescriptor:status_do_projeto: 14 mini seconds publishing element
+Info: Task:constatar_riscos_de_criacao_do_sistema: 10 mini seconds publishing element
+Info: TaskDescriptor:constatar_riscos_de_criacao_do_sistema: 10 mini seconds publishing element
+Info: Task:gerar_documento_de_viabilidade: 9 mini seconds publishing element
+Info: TaskDescriptor:gerar_documento_de_viabilidade: 9 mini seconds publishing element
+Info: Phase:História do usuário: 51 mini seconds publishing element
+Info: TaskDescriptor:examinar_analise_de_requisitos: 12 mini seconds publishing element
+Info: RoleDescriptor:gestor_geral: 17 mini seconds publishing element
+Info: RoleDescriptor:partes_interessadas: 10 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 9 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_analise_de_requisitos: 8 mini seconds publishing element
+Info: WorkProductDescriptor:estoria_do_usuario: 12 mini seconds publishing element
+Info: WorkProductDescriptor:status_do_projeto: 9 mini seconds publishing element
+Info: Task:escrever_historia_do_usuario: 8 mini seconds publishing element
+Info: TaskDescriptor:escrever_historia_do_usuario: 11 mini seconds publishing element
+Info: Phase:Gerência de backlog: 47 mini seconds publishing element
+Info: Task:criar_lista_de_tarefas_pelo_backlog: 8 mini seconds publishing element
+Info: TaskDescriptor:criar_lista_de_tarefas_pelo_backlog: 10 mini seconds publishing element
+Info: RoleDescriptor:gestor_geral: 10 mini seconds publishing element
+Info: Artifact:backlog: 20 mini seconds publishing element
+Info: WorkProductDescriptor:backlog: 18 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 10 mini seconds publishing element
+Info: WorkProductDescriptor:estoria_do_usuario: 10 mini seconds publishing element
+Info: Task:definir_objetivos_e_resultados_dos_papeis: 8 mini seconds publishing element
+Info: TaskDescriptor:definir_objetivos_e_resultados_dos_papeis: 12 mini seconds publishing element
+Info: Task:fazer_estimativa_de_tempo_de_criacao_das_tarefas: 9 mini seconds publishing element
+Info: TaskDescriptor:fazer_estimativa_de_tempo_de_criacao_das_tarefas: 9 mini seconds publishing element
+Info: Phase:Persistência: 50 mini seconds publishing element
+Info: Task:criar_modelo_do_banco: 8 mini seconds publishing element
+Info: TaskDescriptor:criar_modelo_do_banco: 14 mini seconds publishing element
+Info: Role:analista_de_banco_de_dados: 34 mini seconds publishing element
+Info: RoleDescriptor:analista_de_banco_de_dados: 12 mini seconds publishing element
+Info: Artifact:codigo_fonte: 27 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_fonte: 16 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 12 mini seconds publishing element
+Info: Artifact:modelagem_de_banco_de_dados: 31 mini seconds publishing element
+Info: WorkProductDescriptor:modelagem_de_banco_de_dados: 22 mini seconds publishing element
+Info: Artifact:relatorio_de_teste: 26 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_de_teste: 16 mini seconds publishing element
+Info: Task:gerar_codigo_do_banco: 8 mini seconds publishing element
+Info: TaskDescriptor:gerar_codigo_do_banco: 10 mini seconds publishing element
+Info: Task:testar_banco_de_dados: 8 mini seconds publishing element
+Info: TaskDescriptor:testar_banco_de_dados: 10 mini seconds publishing element
+Info: Task:fazer_manutencao_do_banco_de_dados: 9 mini seconds publishing element
+Info: TaskDescriptor:fazer_manutencao_do_banco_de_dados: 10 mini seconds publishing element
+Info: Phase:Construção: 47 mini seconds publishing element
+Info: Task:gerar_codigo_do_sistema: 11 mini seconds publishing element
+Info: TaskDescriptor:gerar_codigo_do_sistema: 11 mini seconds publishing element
+Info: Role:time_de_desenvolvimento_e_producao: 28 mini seconds publishing element
+Info: RoleDescriptor:time_de_desenvolvimento_e_producao: 11 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_fonte: 14 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 9 mini seconds publishing element
+Info: Artifact:diagrama_de_classes: 17 mini seconds publishing element
+Info: WorkProductDescriptor:diagrama_de_classes: 9 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_de_teste: 20 mini seconds publishing element
+Info: Task:testar_codigo_do_sistema: 8 mini seconds publishing element
+Info: TaskDescriptor:testar_codigo_do_sistema: 12 mini seconds publishing element
+Info: Task:manutenir_codigo_do_sistema: 9 mini seconds publishing element
+Info: TaskDescriptor:manutenir_codigo_do_sistema: 10 mini seconds publishing element
+Info: DeliveryProcess:Entrega Final: 216 mini seconds publishing element
+Info: DeliveryProcess:Entrega Final: 3 mini seconds publishing process specific layout data
+Info: Phase:Implantação: 45 mini seconds publishing element
+Info: Task:analisar_codigo_do_sistema: 14 mini seconds publishing element
+Info: TaskDescriptor:analisar_codigo_do_sistema: 13 mini seconds publishing element
+Info: Role:equipe_tecnica_de_implantacao: 30 mini seconds publishing element
+Info: RoleDescriptor:equipe_tecnica_de_implantacao: 11 mini seconds publishing element
+Info: Role:suporte: 28 mini seconds publishing element
+Info: RoleDescriptor:suporte: 12 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_fonte: 11 mini seconds publishing element
+Info: WorkProductDescriptor:demanda: 10 mini seconds publishing element
+Info: Artifact:entrega_parcial: 22 mini seconds publishing element
+Info: WorkProductDescriptor:entrega_parcial: 18 mini seconds publishing element
+Info: Task:integrar_sistema: 11 mini seconds publishing element
+Info: TaskDescriptor:integrar_sistema: 12 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 180 mini seconds publishing element
+Info: CustomCategory:Tasks: 14 mini seconds publishing element
+Info: CustomCategory:Roles: 5 mini seconds publishing element
+Info: CustomCategory:Work Products: 10 mini seconds publishing element
+Info: CustomCategory:Processes: 4 mini seconds publishing element
+Info: : Publishing time: 0 minutes 8 seconds
